@@ -1,0 +1,54 @@
+[
+ {
+     "name": "Worker", 
+     "unitType": "Civilian", 
+     "movement": 2,
+     "uniques": ["Can build [Fort] improvements on tiles"], 
+     "cost": 100
+}, 
+{
+     "name": "Hitch", 
+     "unitType": "Hitch", 
+     "movement": 4,
+     "strength": 1,
+     "cost": 5
+}, 
+{
+     "name": "Flag", 
+     "unitType": "Civilian", 
+     "movement": 2,
+     "uniques": ["Unbuildable"], 
+}, 
+{
+     "name": "Spearman", 
+     "unitType": "Anti Cavalry", 
+     "movement": 2,
+     "strength": 11,
+     "cost": 25,
+     "requiredTech": "Agriculture"
+}, 
+{
+     "name": "Composite Bowman", 
+     "unitType": "Archery", 
+     "movement": 2,
+     "strength": 7, 
+     "rangedStrength": 11, 
+     "cost": 25, 
+     "requiredTech": "Agriculture"
+}, 
+{
+     "name": "Horseman", 
+     "unitType": "Cavalry", 
+     "movement": 4,
+     "strength": 12,
+     "cost": 40,
+     "requiredTech": "Agriculture"
+}, 
+{
+     "name": "Warrior", 
+     "unitType": "Sword",
+     "movement": 2,
+     "strength": 12,
+     "cost": 25
+}
+]

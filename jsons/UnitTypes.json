@@ -1,0 +1,30 @@
+[
+{
+     "name": "Civilian", 
+     "movementType": "Land"
+}, 
+{
+     "name": "Hitch", 
+     "movementType": "Land"
+},
+{
+     "name": "Sword", 
+     "uniques": ["[+25]% Strength <vs [Anti Cavalry] units>"],
+     "movementType": "Land"
+}, 
+{
+     "name": "Anti Cavalry", 
+     "uniques": ["[+50]% Strength <vs [Cavalry] units>"],
+     "movementType": "Land"
+}, 
+{
+     "name": "Cavalry", 
+     "uniques": ["[+25]% Strength <vs [Archery] units>"],  
+     "movementType": "Land"
+}, 
+{
+     "name": "Archery", 
+     "uniques": ["[+25]% Strength <vs [Sword] units>"],
+     "movementType": "Land"
+}
+]
