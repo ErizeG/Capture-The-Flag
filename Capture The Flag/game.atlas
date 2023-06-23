@@ -1,0 +1,20 @@
+
+game.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Flag
+  rotate: false
+  xy: 4, 4
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+UnitIcons/Hitch
+  rotate: false
+  xy: 524, 4
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
