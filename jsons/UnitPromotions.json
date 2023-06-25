@@ -36,7 +36,7 @@
 { 
      "name": "Drill I", 
      "uniques": ["[+15]% Strength <when fighting in [Rough terrain] tiles>"], 
-     "unitTypes": ["Sword","Gunpowder","Mounted","Armored"], 
+     "unitTypes": ["Sword","Cavalry","Anti Cavalry"], 
      "column": 5, 
      "row": 1 
 }, 
@@ -44,7 +44,7 @@
      "name": "Drill II", 
      "prerequisites": ["Drill I"], 
      "uniques": ["[+15]% Strength <when fighting in [Rough terrain] tiles>"], 
-     "unitTypes": ["Sword","Gunpowder","Mounted","Armored"], 
+     "unitTypes": ["Sword","Cavalry","Anti Cavalry"], 
      "column": 5, 
      "row": 2 
 }, 
