@@ -1,7 +1,7 @@
 [
 {
      "name": "Fort", 
-     "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle"],
+     "terrainsCanBeBuiltOn": ["Land"],
      "turnsToBuild": 10,
      "techRequired": "Agriculture"
                      "uniques": ["Can be built outside your borders", "Gives a defensive bonus of [50]%"],
