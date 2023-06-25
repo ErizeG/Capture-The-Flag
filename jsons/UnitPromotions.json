@@ -2,5 +2,12 @@
 { 
      "name": "Способность", 
      "uniques": ["Can move immediately once bought"] 
-} 
+}
+{ 
+     "name": "Heal Instantly", 
+     "uniques": ["Heal this unit by [50] HP", "Doing so will consume this opportunity to choose a Promotion"], 
+     "unitTypes": ["Sword","Scout","Cavalry","Anti Cavalry","Destroy","Archery"], 
+     "row": 0, 
+     "column": 0 
+}
 ]
