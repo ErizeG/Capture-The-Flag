@@ -64,4 +64,59 @@
      "column": 6, 
      "row": 2 
 },
+     "name": "Formation I", 
+     "prerequisites": ["Shock II","Drill II"], 
+     "uniques": ["[+33]% Strength <vs [Mounted] units>"], 
+     "unitTypes": ["Sword","Anti Cavalry","Cavalry"], 
+     "column": 7, 
+     "row": 2 
+},  
+{ 
+     "name": "Formation II", 
+     "prerequisites": ["Formation I"], 
+     "uniques": ["[+33]% Strength <vs [Mounted] units>"], 
+     "unitTypes": ["Sword","Anti Cavalry","Cavalry"], 
+     "column": 7, 
+     "row": 3 
+},  
+{ 
+     "name": "Blitz", 
+     "prerequisites": ["Shock III","Drill III"], 
+     "uniques": ["[1] additional attacks per turn"], 
+     "unitTypes": ["Sword","Anti Cavalry","Cavalry"], 
+     "column": 6, 
+     "row": 4 
+}, 
+{ 
+     "name": "Woodsman", 
+     "prerequisites": ["Shock III","Drill III"], 
+     "uniques": ["Double movement in [Forest]","Double movement in [Jungle]"], 
+     "unitTypes": ["Sword","Anti Cavalry"], 
+     "column": 6, 
+     "row": 5 
+}, 
+{ 
+     "name": "Amphibious", 
+     "prerequisites": ["Shock I", "Drill I"], 
+     "uniques": ["Eliminates combat penalty for attacking over a river", "Eliminates combat penalty for attacking across a coast"], 
+     "unitTypes": ["Sword","Anti Cavalry"], 
+     "column": 6, 
+     "row": 1 
+}, 
+{ 
+     "name": "Medic", 
+     "prerequisites": ["Shock I", "Drill I", "Scouting II", "Survivalism II"], 
+     "uniques": ["All adjacent units heal [+5] HP when healing"], 
+     "unitTypes": ["Sword","Anti Cavalry","Cavalry","Scout"], 
+     "column": 10, // after scout base 
+     "row": 1 
+}, 
+{ 
+     "name": "Medic II", 
+     "prerequisites": ["Medic"], 
+     "uniques": ["[+5] HP when healing <in [Foreign Land] tiles>", "All adjacent units heal [+5] HP when healing"], 
+     "unitTypes": ["Sword","Anti Cavalry","Cavalry","Scout"], 
+     "column": 10, 
+     "row": 2 
+},
 ]
