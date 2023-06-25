@@ -14,21 +14,5 @@
      "uniques": ["Reveals the entire map"],
 }
 ]
-}, 
-{ 
-     "columnNumber": 15, 
-     "era": "Information era", 
-     "techCost": 7700, 
-     "buildingCost": 750, 
-     "wonderCost": 1250, 
-     "techs": 
-[
-{
-     "name": "Satellites", 
-     "row": 6, 
-     "prerequisites": ["Rocketry"],  
-     "quote": "'Now, somehow, in some new way, the sky seemed almost alien.' - Lyndon B. Johnson" 
-}
-]
 }
 ]
