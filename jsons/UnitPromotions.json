@@ -2,12 +2,36 @@
 { 
      "name": "Способность", 
      "uniques": ["Can move immediately once bought"] 
-}
+},
 { 
      "name": "Heal Instantly", 
      "uniques": ["Heal this unit by [50] HP", "Doing so will consume this opportunity to choose a Promotion"], 
      "unitTypes": ["Sword","Scout","Cavalry","Anti Cavalry","Destroy","Archery"], 
      "row": 0, 
      "column": 0 
-}
+}, 
+
+{ 
+     "name": "Accuracy I", 
+     "uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles> <when attacking>"], 
+     "unitTypes": ["Archery"], 
+     "column": 1, 
+     "row": 1 
+},
+{ 
+     "name": "Accuracy II", 
+     "prerequisites": ["Accuracy I"], 
+     "uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles> <when attacking>"], 
+     "unitTypes": ["Archery"], 
+     "column": 1, 
+     "row": 2 
+}, 
+{ 
+     "name": "Accuracy III", 
+     "prerequisites": ["Accuracy II"], 
+     "uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles> <when attacking>"], 
+     "unitTypes": ["Archery"], 
+     "column": 1, 
+     "row": 3 
+},
 ]
