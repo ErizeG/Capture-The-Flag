@@ -108,7 +108,7 @@
      "prerequisites": ["Shock I", "Drill I", "Scouting II", "Survivalism II"], 
      "uniques": ["All adjacent units heal [+5] HP when healing"], 
      "unitTypes": ["Sword","Anti Cavalry","Cavalry","Scout"], 
-     "column": 10, // after scout base 
+     "column": 10,
      "row": 1 
 }, 
 { 
@@ -118,5 +118,5 @@
      "unitTypes": ["Sword","Anti Cavalry","Cavalry","Scout"], 
      "column": 10, 
      "row": 2 
-},
+}
 ]
