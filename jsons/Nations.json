@@ -7,7 +7,7 @@
      "attacked": "Захвати флаг Красных!", 
      "outerColor": [255, 0, 0], 
      "innerColor": [255, 255, 255], 
-     "uniques": ["Cannot build [Settler] units", "Free [Flag] appears <upon founding a city>", "Gain [5000] [Gold] <upon founding a city>", "[-100]% [Science] [in capital]", "[-100]% [Culture] [in capital]", "[-10 Production] [in capital]", "[-100]% growth [in capital]", "[-100]% [Gold] [in capital]", "[Land] units gain the [Способность] promotion", " [-100]% maintenance costs <for [Military] units>","Starts with [Agriculture]"], 
+     "uniques": ["Cannot build [Settler] units", "Free [Flag] appears <upon founding a city>", "Gain [5000] [Gold] <upon founding a city>", "[-100]% [Science] [in capital]", "[-100]% [Culture] [in capital]", "[-10 Production] [in capital]", "[-100]% growth [in capital]", "[-100]% [Gold] [in capital]", "[Land] units gain the [Способность] promotion","[All] units gain the [March] promotion","[-100]% maintenance costs <for [Military] units>","Starts with [Agriculture]"], 
      "cities": ["Red"]
 }, 
 {
