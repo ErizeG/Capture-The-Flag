@@ -56,5 +56,12 @@
      "unitType": "Civilian",  
      "uniques": ["Uncapturable","[+10]% Strength bonus for [Military] units within [3] tiles","[+15]% Strength bonus for [Military] units within [2] tiles","[+20]% Strength bonus for [Military] units within [1] tiles","[+25]% Strength bonus for [Military] units within [0] tiles","[+2] Sight","Rough terrain penalty","All adjacent units heal [+10] HP when healing","Great Person - [War]", "Unbuildable","Can instantly construct a [Citadel] improvement <by consuming this unit>","[All] units gain the [Heal Instantly] promotion <by consuming this unit>"]     
      "movement": 3 
+}, 
+{
+     "name": "Medic", 
+     "unitType": "Civilian",
+     "movement": 2
+     "uniques": ["All adjacent units heal [+15] HP when healing", "Consumes [1] [Military Experience]"], 
+     "cost": 0
 }
 ]
