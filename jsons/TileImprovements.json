@@ -9,7 +9,7 @@
 {
      "name": "Citadel",
      "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle"],
-     "uniques": ["Great Improvement","Provides [5] [Military Expirience]"]
+     "uniques": ["Great Improvement","Provides [5] [Military Experience]"]
 },
 {
      "name": "Road", 
