@@ -60,8 +60,7 @@
 {
      "name": "Medic", 
      "unitType": "Civilian",
-     "movement": 2
-     "uniques": ["All adjacent units heal [15] HP every turn","Consumes [1] [Military Experience]"], 
+     "movement": 2 
      "cost": 0
 }
 ]
