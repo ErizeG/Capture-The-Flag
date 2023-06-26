@@ -10,5 +10,12 @@
      "name": "Citadel",
      "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle"],
      "uniques": ["Great Improvement","Provides [5] [Military Expirience]"]
-}
+},
+{
+     "name": "Road", 
+     "terrainsCanBeBuiltOn": ["Land"], 
+     "turnsToBuild": 1, 
+     "techRequired": "Agriculture", 
+     "uniques": ["Can be built outside your borders"]
+}     
 ]
