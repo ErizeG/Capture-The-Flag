@@ -1,7 +1,7 @@
 [ 
 { 
      "name": "Способность", 
-     "uniques": ["Can move immediately once bought","Healing [15] HP <when finish turn on [All]> <when adjacent to a [Medic] unit>"]
+     "uniques": ["Can move immediately once bought","Unit will heal every turn, even if it performs an action <when adjacent to a [Medic] unit>"]
 },
 { 
      "name": "Heal Instantly", 
