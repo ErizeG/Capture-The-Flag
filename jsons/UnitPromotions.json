@@ -123,7 +123,7 @@
 { 
      "name": "March", 
      "prerequisites": ["Accuracy II","Barrage II","Shock III","Drill III"], 
-     "uniques": ["Unit will heal every turn, even if it performs an action"], 
+     "uniques": ["Unit will heal every turn, even if it performs an action <when adjacent to a [Medic] unit], 
 "unitTypes": ["Sword","Anti Cavalry","Archery","Cavalry"], 
 "column": 10, 
 "row": 3 
