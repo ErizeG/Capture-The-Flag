@@ -9,7 +9,7 @@
 },
 {
      "name": "Sword", 
-     "uniques": ["[+25]% Strength <vs [Anti Cavalry] units>"],
+     "uniques": ["[+25]% Strength <vs [Anti Cavalry] units>","Heal [15] HP <when finish a turn on [Land]> <when adjacent to a [Medic] unit>"]
      "movementType": "Land"
 }, 
 {
