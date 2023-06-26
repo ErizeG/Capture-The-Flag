@@ -9,7 +9,7 @@
 },
 {
      "name": "Sword", 
-     "uniques": ["[+25]% Strength <vs [Anti Cavalry] units>","Unit will heal every turn, even if it performs an action <when adjacent to a [Medic] unit>"],     
+     "uniques": ["[+25]% Strength <vs [Anti Cavalry] units>",],     
      "movementType": "Land"
 }, 
 {
