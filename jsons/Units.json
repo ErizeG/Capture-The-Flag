@@ -10,6 +10,7 @@
      "name": "Hitch", 
      "unitType": "Hitch", 
      "movement": 4,
+     "uniques":["Heal [15] HP <when finish a turn> <when adjacent to a [Medic] unit>"]
      "strength": 1,
      "cost": 5
 }, 
