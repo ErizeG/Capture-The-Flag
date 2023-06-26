@@ -48,7 +48,7 @@
      "name": "Warrior", 
      "unitType": "Sword",
      "movement": 2,
-     "strength": 12,
+     "uniques": ["Unit will heal every turn, even if it performs an action <when adjacent to a [Medic] unit>"],          "strength": 12,
      "cost": 25
 },
 { 
