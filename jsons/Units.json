@@ -60,7 +60,7 @@
 {
      "name": "Medic", 
      "unitType": "Civilian",
-     "uniques": ["All adjacent units heal [+30] HP when healing"], 
+     "uniques": ["All adjacent units heal [+30] HP when healing","Consumes [1] [Military Experience]"], 
      "movement": 2 
      "cost": 0
 }
