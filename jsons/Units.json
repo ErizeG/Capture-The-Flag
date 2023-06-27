@@ -61,7 +61,7 @@
      "name": "Medic", 
      "unitType": "Civilian",
      "uniques": ["All adjacent units heal [+30] HP when healing","Consumes [1] [Military Experience]"], 
-     "CivilopediaText": "All adjacent units are healing 30 more than usual", 
+     "CivilopediaText":[{"text":"All adjacent units are healing 30 more than }]", 
      "movement": 2,
      "cost": 0
 }, 
