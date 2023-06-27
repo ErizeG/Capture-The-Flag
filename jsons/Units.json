@@ -63,9 +63,9 @@
      "uniques": ["All adjacent units heal [+30] HP when healing","Consumes [1] [Military Experience]"], 
      "movement": 2,
      "cost": 0,
-     "CivilopediaText":[ 
-      {"text": "All adjacent units are healing 30 HP than usual"} 
-]
+        "civilopediaText": [ 
+                         {"text": "This is your basic, club-swinging fighter."} 
+                 ]     
 }, 
 {
      "name": "Engineer", 
