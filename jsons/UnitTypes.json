@@ -26,5 +26,10 @@
      "name": "Archery", 
      "uniques": ["[+25]% Strength <vs [Sword] units>"],
      "movementType": "Land"
+},
+{
+     "name": "Destroy",
+     "uniques": ["Destroys tile improvements when attacking"], 
+     "movementType": "Land"
 }
 ]
