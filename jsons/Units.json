@@ -24,7 +24,7 @@
      "unitType": "Anti Cavalry", 
      "movement": 2,
      "strength": 11,
-     "cost": 40,
+     "cost": 50,
      "requiredTech": "Agriculture"
 }, 
 {
@@ -33,7 +33,7 @@
      "movement": 2,
      "strength": 7, 
      "rangedStrength": 11, 
-     "cost": 40, 
+     "cost": 50, 
      "requiredTech": "Agriculture"
 }, 
 {
@@ -41,7 +41,7 @@
      "unitType": "Cavalry", 
      "movement": 4,
      "strength": 12,
-     "cost": 60,
+     "cost": 70,
      "requiredTech": "Agriculture"
 }, 
 {
@@ -49,7 +49,7 @@
      "unitType": "Sword",
      "movement": 2,
      "strength": 12,
-     "cost": 40
+     "cost": 50
 },
 { 
      "name": "Great General", 
