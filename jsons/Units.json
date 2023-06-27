@@ -62,10 +62,7 @@
      "unitType": "Civilian",
      "uniques": ["All adjacent units heal [+30] HP when healing","Consumes [1] [Military Experience]"], 
      "movement": 2,
-     "cost": 0,
-        "civilopediaText": [ 
-                         {"text": "This is your basic, club-swinging fighter."} 
-                 ]     
+     "cost": 0,     
 }, 
 {
      "name": "Engineer", 
