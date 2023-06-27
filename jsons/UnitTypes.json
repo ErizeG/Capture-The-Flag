@@ -9,7 +9,7 @@
 },
 {
      "name": "Sword", 
-     "uniques": ["[+25]% Strength <vs [Anti Cavalry] units>"],     
+     "uniques": ["[+25]% Strength <vs [Anti Cavalry] units>","[+50]% Strength when stacked with [Shieldbearer] unit <when defending>"], 
      "movementType": "Land"
 }, 
 {
@@ -31,5 +31,5 @@
      "name": "Destroy",
      "uniques": ["Destroys tile improvements when attacking"], 
      "movementType": "Land"
-}
+}, 
 ]
