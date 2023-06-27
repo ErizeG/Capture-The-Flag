@@ -14,7 +14,7 @@
 }, 
 {
      "name": "Anti Cavalry", 
-     "uniques": ["[+50]% Strength <vs [Cavalry] units>"],
+     "uniques": ["[+50]% Strength <vs [Cavalry] units>","[+50]% Strength when stacked with [Armour-bearer]"], 
      "movementType": "Land"
 }, 
 {
@@ -24,7 +24,7 @@
 }, 
 {
      "name": "Archery", 
-     "uniques": ["[+25]% Strength <vs [Sword] units>"],
+     "uniques": ["[+25]% Strength <vs [Sword] units>"],"[+50]% Strength when stacked with [Armour-bearer]"    
      "movementType": "Land"
 },
 {
