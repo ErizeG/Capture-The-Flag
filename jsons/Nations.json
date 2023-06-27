@@ -142,4 +142,15 @@
      "uniques": ["Cannot build [Settler] units", "Free [Flag] appears <upon founding a city>", "Gain [5000] [Gold] <upon founding a city>", "[-100]% [Science] [in capital]", "[-100]% [Culture] [in capital]", "[-10 Production] [in capital]", "[-100]% growth [in capital]", "[-100]% [Gold] [in capital]", "[Land] units gain the [Способность] promotion","[-100]% maintenance costs <for [Military] units>","Starts with [Agriculture]"], 
      "cities": ["Black-Gold"]
 }, 
+{
+     "name": "Burgundy", 
+     "startIntroPart1": " Приветствую тебя в режиме Захват Флага. Чтобы победить, вам нужно захватить вражеский флаг и отнести в центр вашего города.", 
+     "startIntroPart2": " Лимит бюджета на армию выставляют игроки. Юнитам запрещено находиться на территории города.",
+     "declaringWar": "Захвати флаг Бордовых!"
+     "attacked": "Захвати флаг Бордовых!", 
+     "outerColor": [128, 0, 0], 
+     "innerColor": [255, 255, 255], 
+     "uniques": ["Cannot build [Settler] units", "Free [Flag] appears <upon founding a city>", "Gain [5000] [Gold] <upon founding a city>", "[-100]% [Science] [in capital]", "[-100]% [Culture] [in capital]", "[-10 Production] [in capital]", "[-100]% growth [in capital]", "[-100]% [Gold] [in capital]", "[Land] units gain the [Способность] promotion","[-100]% maintenance costs <for [Military] units>","Starts with [Agriculture]"], 
+     "cities": ["Burgundy"]
+}, 
 ]
