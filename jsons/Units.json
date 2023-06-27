@@ -80,5 +80,11 @@
      "strength": 8,
      "rangedStrength": 1,
      "cost": 50,
+}, 
+{ 
+     "name": "Shieldbearer", 
+     "unitType": "Civilian", 
+     "movement": 2,
+     "cost":0
 }
 ]
