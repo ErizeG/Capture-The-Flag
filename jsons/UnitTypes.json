@@ -9,7 +9,7 @@
 },
 {
      "name": "Sword", 
-     "uniques": ["[+25]% Strength <vs [Anti Cavalry] units>","[+50]% Strength when stacked with [Shieldbearer] unit <when defending>"], 
+     "uniques": ["[+25]% Strength <vs [Anti Cavalry] units>","[+50]% Strength when stacked with [Shieldbearer] <when defending>"], 
      "movementType": "Land"
 }, 
 {
