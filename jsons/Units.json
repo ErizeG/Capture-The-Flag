@@ -72,5 +72,13 @@
      "strength": 5,
      "rangedStrength": 7,
      "cost": 0,
-}, 
+},
+{
+     "name": "Catapult", 
+     "unitType": "Destroy", 
+     "movement": 2,
+     "strength": 8,
+     "rangedStrength": 1,
+     "cost": 50,
+}
 ]
