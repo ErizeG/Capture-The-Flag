@@ -61,7 +61,16 @@
      "name": "Medic", 
      "unitType": "Civilian",
      "uniques": ["All adjacent units heal [+30] HP when healing","Consumes [1] [Military Experience]"], 
-     "movement": 2 
+     "movement": 2,
      "cost": 0
-}
+}, 
+{
+     "name": "Engineer", 
+     "unitType": "Archery", 
+     "uniques": ["Can build [Road] improvements on tiles","Must set up to ranged attack","[+10]% Strength on [Fort] tiles"," Consumes [2] [Military Experience]"]
+     "movement": 2,
+     "strength": 5,
+     "rangedStrength": 7,
+     "cost": 0,
+}, 
 ]
