@@ -24,7 +24,7 @@
 }, 
 {
      "name": "Archery", 
-     "uniques": ["[+25]% Strength <vs [Sword] units>"],"[+50]% Strength when stacked with [Armour-bearer]"    
+     "uniques": ["[+25]% Strength <vs [Sword] units>","[+50]% Strength when stacked with [Armour-bearer]"    
      "movementType": "Land"
 },
 {
