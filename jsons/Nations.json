@@ -122,15 +122,15 @@
      "cities": ["Pink"]
 },
 {
-     "name": "Black-Gold", 
+     "name": "Olive", 
      "startIntroPart1": " Welcome to Capture the Flag mode. To win, you must capture the enemy flag and take it to the center of your city.", 
      "startIntroPart2": " Лимит бюджета на армию выставляют игроки. Юнитам запрещено находиться на территории города.",
-     "declaringWar": "Захвати флаг Черно-Золотых!"
-     "attacked": "Захвати флаг Черно-Золотых!", 
-     "outerColor": [0, 0, 0], 
-     "innerColor": [255, 215, 0], 
+     "declaringWar": "Захвати флаг Оливковых!"
+     "attacked": "Захвати флаг Оливковых!", 
+     "outerColor": [20, 35, 0], 
+     "innerColor": [255, 255, 255], 
      "uniques": ["Cannot build [Settler] units", "Free [Flag] appears <upon founding a city>","[Land] units gain the [Ability] promotion","Starts with [Agriculture]", "Gain [5000] [Gold] <upon founding a city>", "[-100]% [Science] [in capital]", "[-100]% [Culture] [in capital]", "[-10 Production] [in capital]", "[-100]% growth [in capital]", "[-100]% [Gold] [in capital]", "[-100]% maintenance costs <for [Military] units>"],  
-     "cities": ["Black-Gold"]
+     "cities": ["Olive"]
 }, 
 {
      "name": "Burgundy", 
