@@ -21,6 +21,9 @@
      "unitType": "Civilian", 
      "movement": 2,
      "uniques": ["Unbuildable","[+10]% Strength bonus for [Military] units within [1] tiles","[+30]% Strength bonus for [Military] units within [0] tiles"], 
+     "civilopediaText":[
+     {"text":"Capture the enemy flag to win!"}
+]
 }, 
 {
      "name": "Spearman", 
