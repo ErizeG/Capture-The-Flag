@@ -106,9 +106,9 @@
 }, 
 { 
      "name": "Medic", 
-     "prerequisites": ["Shock I", "Drill I", "Scouting II", "Survivalism II"], 
+     "prerequisites": ["Shock I", "Drill I"], 
      "uniques": ["All adjacent units heal [+5] HP when healing"], 
-     "unitTypes": ["Sword","Anti Cavalry","Cavalry","Scout"], 
+     "unitTypes": ["Sword","Anti Cavalry","Cavalry"], 
      "column": 10,
      "row": 1 
 }, 
@@ -116,7 +116,7 @@
      "name": "Medic II", 
      "prerequisites": ["Medic"], 
      "uniques": ["[+5] HP when healing <in [Foreign Land] tiles>", "All adjacent units heal [+5] HP when healing"], 
-     "unitTypes": ["Sword","Anti Cavalry","Cavalry","Scout"], 
+     "unitTypes": ["Sword","Anti Cavalry","Cavalry"], 
      "column": 10, 
      "row": 2 
 }, 
