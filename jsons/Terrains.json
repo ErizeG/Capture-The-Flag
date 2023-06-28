@@ -8,6 +8,12 @@
 		"RGB": [43, 87, 151]
 	},
 	{
+		"name":"Spawn",
+		"type":"Land",
+		"movementCost": 1,
+		"RGB": [255, 255, 255]
+	},
+	{
 		"name": "Coast",
 		"type": "Water",
 		"food": 1,
