@@ -3,8 +3,8 @@
      "name": "Red", 
      "startIntroPart1": " Приветствую тебя в режиме Захват Флага. Чтобы победить, вам нужно захватить вражеский флаг и отнести в центр вашего города.", 
      "startIntroPart2": " Лимит бюджета на армию выставляют игроки. Юнитам запрещено находиться на территории города.",
-     "declaringWar": "Захвати флаг Красных!"
-     "attacked": "Захвати флаг Красных!", 
+     "declaringWar": "Capture the Reds flag!"
+     "attacked": "Capture the Reds flag!", 
      "outerColor": [255, 0, 0], 
      "innerColor": [255, 255, 255], 
      "uniques": ["Cannot build [Settler] units", "Free [Flag] appears <upon founding a city>","[Land] units gain the [Ability] promotion","Starts with [Agriculture]", "Gain [5000] [Gold] <upon founding a city>", "[-100]% [Science] [in capital]", "[-100]% [Culture] [in capital]", "[-10 Production] [in capital]", "[-100]% growth [in capital]", "[-100]% [Gold] [in capital]", "[-100]% maintenance costs <for [Military] units>"],  
@@ -14,8 +14,8 @@
      "name": "Blue", 
      "startIntroPart1": " Приветствую тебя в режиме Захват Флага. Чтобы победить, вам нужно захватить вражеский флаг и отнести в центр вашего города.", 
      "startIntroPart2": " Лимит бюджета на армию выставляют игроки. Юнитам запрещено находиться на территории города.",
-     "declaringWar": "Захвати флаг Синих!"
-     "attacked": "Захвати флаг Синих!", 
+     "declaringWar": "Capture the Blue flag!"
+     "attacked": "Capture the Blue flag!", 
      "outerColor": [0, 0, 255], 
      "innerColor": [255, 255, 255], 
      "uniques": ["Cannot build [Settler] units", "Free [Flag] appears <upon founding a city>","[Land] units gain the [Ability] promotion","Starts with [Agriculture]", "Gain [5000] [Gold] <upon founding a city>", "[-100]% [Science] [in capital]", "[-100]% [Culture] [in capital]", "[-10 Production] [in capital]", "[-100]% growth [in capital]", "[-100]% [Gold] [in capital]", "[-100]% maintenance costs <for [Military] units>"],       
@@ -25,8 +25,8 @@
      "name": "Green", 
      "startIntroPart1": " Приветствую тебя в режиме Захват Флага. Чтобы победить, вам нужно захватить вражеский флаг и отнести в центр вашего города.", 
      "startIntroPart2": " Лимит бюджета на армию выставляют игроки. Юнитам запрещено находиться на территории города.",
-     "declaringWar": "Захвати флаг Зелёных!"
-     "attacked": "Захвати флаг Зелёных!", 
+     "declaringWar": "Capture the Green flag!"
+     "attacked": "Capture the Green flag!", 
      "outerColor": [0, 128, 0], 
      "innerColor": [255, 255, 255], 
      "uniques": ["Cannot build [Settler] units", "Free [Flag] appears <upon founding a city>","[Land] units gain the [Ability] promotion","Starts with [Agriculture]", "Gain [5000] [Gold] <upon founding a city>", "[-100]% [Science] [in capital]", "[-100]% [Culture] [in capital]", "[-10 Production] [in capital]", "[-100]% growth [in capital]", "[-100]% [Gold] [in capital]", "[-100]% maintenance costs <for [Military] units>"],  
@@ -36,8 +36,8 @@
      "name": "Yellow", 
      "startIntroPart1": " Приветствую тебя в режиме Захват Флага. Чтобы победить, вам нужно захватить вражеский флаг и отнести в центр вашего города.", 
      "startIntroPart2": " Лимит бюджета на армию выставляют игроки. Юнитам запрещено находиться на территории города.",
-     "declaringWar": "Захвати флаг Жёлтых!"
-     "attacked": "Захвати флаг Жёлтых!"
+     "declaringWar": "Capture the Yellow flag!"
+     "attacked": "Capture the Yellow flag!"
      "outerColor": [235, 219, 52], 
      "innerColor": [255, 255, 255], 
      "uniques": ["Cannot build [Settler] units", "Free [Flag] appears <upon founding a city>","[Land] units gain the [Ability] promotion","Starts with [Agriculture]", "Gain [5000] [Gold] <upon founding a city>", "[-100]% [Science] [in capital]", "[-100]% [Culture] [in capital]", "[-10 Production] [in capital]", "[-100]% growth [in capital]", "[-100]% [Gold] [in capital]", "[-100]% maintenance costs <for [Military] units>"],  
@@ -47,8 +47,8 @@
      "name": "Aqua", 
      "startIntroPart1": " Приветствую тебя в режиме Захват Флага. Чтобы победить, вам нужно захватить вражеский флаг и отнести в центр вашего города.", 
      "startIntroPart2": " Лимит бюджета на армию выставляют игроки. Юнитам запрещено находиться на территории города.",
-     "declaringWar": "Захвати флаг  Голубых!"
-     "attacked": "Захвати флаг Голубых!", 
+     "declaringWar": "Capture the Aqua flag!"
+     "attacked": "Capture the Aqua flag!", 
      "outerColor": [32, 168, 199], 
      "innerColor": [255, 255, 255], 
      "uniques": ["Cannot build [Settler] units", "Free [Flag] appears <upon founding a city>","[Land] units gain the [Ability] promotion","Starts with [Agriculture]", "Gain [5000] [Gold] <upon founding a city>", "[-100]% [Science] [in capital]", "[-100]% [Culture] [in capital]", "[-10 Production] [in capital]", "[-100]% growth [in capital]", "[-100]% [Gold] [in capital]", "[-100]% maintenance costs <for [Military] units>"],  
@@ -58,8 +58,8 @@
      "name": "Lime", 
      "startIntroPart1": " Приветствую тебя в режиме Захват Флага. Чтобы победить, вам нужно захватить вражеский флаг и отнести в центр вашего города.", 
      "startIntroPart2": " Лимит бюджета на армию выставляют игроки. Юнитам запрещено находиться на территории города.",
-     "declaringWar": "Захвати флаг Лаймовых!"
-     "attacked": "Захвати флаг Лаймовых!", 
+     "declaringWar": "Capture the Lime flag!"
+     "attacked": "Capture the Lime flag!", 
      "outerColor": [105, 207, 27], 
      "innerColor": [255, 255, 255], 
      "uniques": ["Cannot build [Settler] units", "Free [Flag] appears <upon founding a city>","[Land] units gain the [Ability] promotion","Starts with [Agriculture]", "Gain [5000] [Gold] <upon founding a city>", "[-100]% [Science] [in capital]", "[-100]% [Culture] [in capital]", "[-10 Production] [in capital]", "[-100]% growth [in capital]", "[-100]% [Gold] [in capital]", "[-100]% maintenance costs <for [Military] units>"],  
@@ -69,8 +69,8 @@
      "name": "Purple", 
      "startIntroPart1": " Приветствую тебя в режиме Захват Флага. Чтобы победить, вам нужно захватить вражеский флаг и отнести в центр вашего города.", 
      "startIntroPart2": " Лимит бюджета на армию выставляют игроки. Юнитам запрещено находиться на территории города.",
-     "declaringWar": "Захвати флаг Фиолетовых!"
-     "attacked": "Захвати флаг Фиолетовых!", 
+     "declaringWar": "Capture the Purple flag!"
+     "attacked": "Capture the Purple flag!", 
      "outerColor": [128, 0, 128], 
      "innerColor": [255, 255, 255], 
      "uniques": ["Cannot build [Settler] units", "Free [Flag] appears <upon founding a city>","[Land] units gain the [Ability] promotion","Starts with [Agriculture]", "Gain [5000] [Gold] <upon founding a city>", "[-100]% [Science] [in capital]", "[-100]% [Culture] [in capital]", "[-10 Production] [in capital]", "[-100]% growth [in capital]", "[-100]% [Gold] [in capital]", "[-100]% maintenance costs <for [Military] units>"],  
@@ -80,8 +80,8 @@
      "name": "Black", 
      "startIntroPart1": " Приветствую тебя в режиме Захват Флага. Чтобы победить, вам нужно захватить вражеский флаг и отнести в центр вашего города.", 
      "startIntroPart2": " Лимит бюджета на армию выставляют игроки. Юнитам запрещено находиться на территории города.",
-     "declaringWar": "Захвати флаг Чёрных!"
-     "attacked": "Захвати флаг Чёрных!", 
+     "declaringWar": "Capture the Black flag!"
+     "attacked": "Capture the Black flag!", 
      "outerColor": [0, 0, 0], 
      "innerColor": [255, 255, 255], 
      "uniques": ["Cannot build [Settler] units", "Free [Flag] appears <upon founding a city>","[Land] units gain the [Ability] promotion","Starts with [Agriculture]", "Gain [5000] [Gold] <upon founding a city>", "[-100]% [Science] [in capital]", "[-100]% [Culture] [in capital]", "[-10 Production] [in capital]", "[-100]% growth [in capital]", "[-100]% [Gold] [in capital]", "[-100]% maintenance costs <for [Military] units>"],  
@@ -91,8 +91,8 @@
      "name": "Nephrite", 
      "startIntroPart1": " Приветствую тебя в режиме Захват Флага. Чтобы победить, вам нужно захватить вражеский флаг и отнести в центр вашего города.", 
      "startIntroPart2": " Лимит бюджета на армию выставляют игроки. Юнитам запрещено находиться на территории города.",
-     "declaringWar": "Захвати флаг Нефритовых!"
-     "attacked": "Захвати флаг Нефритовых!", 
+     "declaringWar": "Capture the Nephrite flag!"
+     "attacked": "Capture the Nephrite flag!", 
      "outerColor": [0, 167, 116], 
      "innerColor": [255, 255, 255], 
      "uniques": ["Cannot build [Settler] units", "Free [Flag] appears <upon founding a city>","[Land] units gain the [Ability] promotion","Starts with [Agriculture]", "Gain [5000] [Gold] <upon founding a city>", "[-100]% [Science] [in capital]", "[-100]% [Culture] [in capital]", "[-10 Production] [in capital]", "[-100]% growth [in capital]", "[-100]% [Gold] [in capital]", "[-100]% maintenance costs <for [Military] units>"],  
@@ -102,8 +102,8 @@
      "name": "Orange", 
      "startIntroPart1": " Приветствую тебя в режиме Захват Флага. Чтобы победить, вам нужно захватить вражеский флаг и отнести в центр вашего города.", 
      "startIntroPart2": " Лимит бюджета на армию выставляют игроки. Юнитам запрещено находиться на территории города.",
-     "declaringWar": "Захвати флаг Оранжевых!"
-     "attacked": "Захвати флаг Оранжевых!", 
+     "declaringWar": "Capture the Orange flag!"
+     "attacked": "Capture the Orange flag!", 
      "outerColor": [227, 113, 0], 
      "innerColor": [255, 255, 255], 
      "uniques": ["Cannot build [Settler] units", "Free [Flag] appears <upon founding a city>","[Land] units gain the [Ability] promotion","Starts with [Agriculture]", "Gain [5000] [Gold] <upon founding a city>", "[-100]% [Science] [in capital]", "[-100]% [Culture] [in capital]", "[-10 Production] [in capital]", "[-100]% growth [in capital]", "[-100]% [Gold] [in capital]", "[-100]% maintenance costs <for [Military] units>"],  
@@ -113,8 +113,8 @@
      "name": "Pink", 
      "startIntroPart1": " Приветствую тебя в режиме Захват Флага. Чтобы победить, вам нужно захватить вражеский флаг и отнести в центр вашего города.", 
      "startIntroPart2": " Лимит бюджета на армию выставляют игроки. Юнитам запрещено находиться на территории города.",
-     "declaringWar": "Захвати флаг Розовых!"
-     "attacked": "Захвати флаг Розовых!", 
+     "declaringWar": "Capture the Pink flag!"
+     "attacked": "Capture the Pink flag!", 
      "outerColor": [238, 0, 139], 
      "innerColor": [255, 255, 255], 
      "uniques": ["Cannot build [Settler] units", "Free [Flag] appears <upon founding a city>","[Land] units gain the [Ability] promotion","Starts with [Agriculture]", "Gain [5000] [Gold] <upon founding a city>", "[-100]% [Science] [in capital]", "[-100]% [Culture] [in capital]", "[-10 Production] [in capital]", "[-100]% growth [in capital]", "[-100]% [Gold] [in capital]", "[-100]% maintenance costs <for [Military] units>"],  
