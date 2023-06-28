@@ -3,7 +3,7 @@
      "name": "Red", 
      "startIntroPart1": " Welcome to Capture the Flag mode. To win, you must capture the enemy flag and take it to the center of your city.", 
      "startIntroPart2": " The budget limit for the army is set by the players. Units are not allowed to be in the city.",
-     "startBias": ["Spawn","Avoid [Forest]","Avoid [Plains]","Avoid [Jungle]","Avoid [Hill]","Avoid [Desert]"," Avoid [Tundra]","Avoid [Forest]","Avoid [Coast]"], 
+     "startBias": ["Spawn","Avoid [Forest]","Avoid [Plains]","Avoid [Jungle]","Avoid [Hill]","Avoid [Desert]"," Avoid [Tundra]","Avoid [Forest]","Avoid [Coast]","Avoid [Grassland]"], 
      "declaringWar": "Capture the Reds flag!"
      "attacked": "Capture the Reds flag!", 
      "outerColor": [255, 0, 0], 
