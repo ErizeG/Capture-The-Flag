@@ -2,13 +2,6 @@
     {
         "name": "Quick",
         "modifier": 0.67,
-            "[-67]% Production cost of [All] buildings",
-            "[-67]% Produciton cost of [All] units",
-            "Gold cost of purchasing [All] units [-67]%"
-            "Gold cost of purchasing [All] buildings [-67]%"
-            "[-67]% Science cost of reseaching new Techs"
-            "[-67]% Culture cost of adopting new policies"
-        "productionCostModifier": 0.67,
         "goldCostModifier": 0.67,
         "scienceCostModifier": 0.67,
         "cultureCostModifier": 0.67,
