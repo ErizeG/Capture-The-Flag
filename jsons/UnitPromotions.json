@@ -1,7 +1,7 @@
 [ 
 { 
      "name": "Ability", 
-     "uniques": ["Can move immediately once bought"]
+     "uniques": ["Can move immediately once bought","[-100]% Strength <vs cities> <when attacking>"]
 },
 { 
      "name": "Heal Instantly", 
