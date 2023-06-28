@@ -92,6 +92,7 @@
      "unitType": "Civilian", 
      "movement": 2,
      "cost":0
+     "uniques":["Consumes [1] [Military Experience]"], 
      "civilopediaText":[
      {"text":"Gives +50% strength to the unit with which he is in the same tile"}
 ]
