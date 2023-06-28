@@ -4,14 +4,14 @@
      "unitType": "Civilian", 
      "movement": 2,
      "uniques": ["Can build [Fort] improvements on tiles"], 
-     "cost": 30
+     "cost": 35
 }, 
 {
      "name": "Hitch", 
      "unitType": "Hitch", 
      "movement": 4,
      "strength": 1,
-     "cost": 10
+     "cost": 5
      "civilopediaText":[
      {"text":"Use this unit to block the enemy army"}
 ]
@@ -30,7 +30,7 @@
      "unitType": "Anti Cavalry", 
      "movement": 2,
      "strength": 11,
-     "cost": 50,
+     "cost": 35,
      "requiredTech": "Agriculture"
 }, 
 {
@@ -39,7 +39,7 @@
      "movement": 2,
      "strength": 7, 
      "rangedStrength": 11, 
-     "cost": 50, 
+     "cost": 35, 
      "requiredTech": "Agriculture"
 }, 
 {
@@ -47,7 +47,7 @@
      "unitType": "Cavalry", 
      "movement": 4,
      "strength": 12,
-     "cost": 70,
+     "cost": 55,
      "requiredTech": "Agriculture"
 }, 
 {
@@ -55,7 +55,7 @@
      "unitType": "Sword",
      "movement": 2,
      "strength": 12,
-     "cost": 50
+     "cost": 35
 },
 { 
      "name": "Great General", 
