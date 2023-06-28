@@ -4,7 +4,7 @@
      "unitType": "Civilian", 
      "movement": 2,
      "uniques": ["Can build [Fort] improvements on tiles"], 
-     "cost": 50
+     "cost": 30
 }, 
 {
      "name": "Hitch", 
