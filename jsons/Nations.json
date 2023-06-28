@@ -1,7 +1,7 @@
 [
 {
      "name": "Red", 
-     "startIntroPart1": " Приветствую тебя в режиме Захват Флага. Чтобы победить, вам нужно захватить вражеский флаг и отнести в центр вашего города.", 
+     "startIntroPart1": " Welcome to Capture the Flag mode. To win, you must capture the enemy flag and take it to the center of your city.", 
      "startIntroPart2": " Лимит бюджета на армию выставляют игроки. Юнитам запрещено находиться на территории города.",
      "declaringWar": "Capture the Reds flag!"
      "attacked": "Capture the Reds flag!", 
@@ -12,7 +12,7 @@
 }, 
 {
      "name": "Blue", 
-     "startIntroPart1": " Приветствую тебя в режиме Захват Флага. Чтобы победить, вам нужно захватить вражеский флаг и отнести в центр вашего города.", 
+     "startIntroPart1": " Welcome to Capture the Flag mode. To win, you must capture the enemy flag and take it to the center of your city.", 
      "startIntroPart2": " Лимит бюджета на армию выставляют игроки. Юнитам запрещено находиться на территории города.",
      "declaringWar": "Capture the Blue flag!"
      "attacked": "Capture the Blue flag!", 
@@ -23,7 +23,7 @@
 }, 
 {
      "name": "Green", 
-     "startIntroPart1": " Приветствую тебя в режиме Захват Флага. Чтобы победить, вам нужно захватить вражеский флаг и отнести в центр вашего города.", 
+     "startIntroPart1": " Welcome to Capture the Flag mode. To win, you must capture the enemy flag and take it to the center of your city.", 
      "startIntroPart2": " Лимит бюджета на армию выставляют игроки. Юнитам запрещено находиться на территории города.",
      "declaringWar": "Capture the Green flag!"
      "attacked": "Capture the Green flag!", 
@@ -34,7 +34,7 @@
 }, 
 {
      "name": "Yellow", 
-     "startIntroPart1": " Приветствую тебя в режиме Захват Флага. Чтобы победить, вам нужно захватить вражеский флаг и отнести в центр вашего города.", 
+     "startIntroPart1": " Welcome to Capture the Flag mode. To win, you must capture the enemy flag and take it to the center of your city.", 
      "startIntroPart2": " Лимит бюджета на армию выставляют игроки. Юнитам запрещено находиться на территории города.",
      "declaringWar": "Capture the Yellow flag!"
      "attacked": "Capture the Yellow flag!"
@@ -45,7 +45,7 @@
 }, 
 {
      "name": "Aqua", 
-     "startIntroPart1": " Приветствую тебя в режиме Захват Флага. Чтобы победить, вам нужно захватить вражеский флаг и отнести в центр вашего города.", 
+     "startIntroPart1": " Welcome to Capture the Flag mode. To win, you must capture the enemy flag and take it to the center of your city.", 
      "startIntroPart2": " Лимит бюджета на армию выставляют игроки. Юнитам запрещено находиться на территории города.",
      "declaringWar": "Capture the Aqua flag!"
      "attacked": "Capture the Aqua flag!", 
@@ -56,7 +56,7 @@
      }, 
 {
      "name": "Lime", 
-     "startIntroPart1": " Приветствую тебя в режиме Захват Флага. Чтобы победить, вам нужно захватить вражеский флаг и отнести в центр вашего города.", 
+     "startIntroPart1": " Welcome to Capture the Flag mode. To win, you must capture the enemy flag and take it to the center of your city.", 
      "startIntroPart2": " Лимит бюджета на армию выставляют игроки. Юнитам запрещено находиться на территории города.",
      "declaringWar": "Capture the Lime flag!"
      "attacked": "Capture the Lime flag!", 
@@ -67,7 +67,7 @@
      }, 
 {
      "name": "Purple", 
-     "startIntroPart1": " Приветствую тебя в режиме Захват Флага. Чтобы победить, вам нужно захватить вражеский флаг и отнести в центр вашего города.", 
+     "startIntroPart1": " Welcome to Capture the Flag mode. To win, you must capture the enemy flag and take it to the center of your city.", 
      "startIntroPart2": " Лимит бюджета на армию выставляют игроки. Юнитам запрещено находиться на территории города.",
      "declaringWar": "Capture the Purple flag!"
      "attacked": "Capture the Purple flag!", 
@@ -78,7 +78,7 @@
      }, 
 {
      "name": "Black", 
-     "startIntroPart1": " Приветствую тебя в режиме Захват Флага. Чтобы победить, вам нужно захватить вражеский флаг и отнести в центр вашего города.", 
+     "startIntroPart1": " Welcome to Capture the Flag mode. To win, you must capture the enemy flag and take it to the center of your city.", 
      "startIntroPart2": " Лимит бюджета на армию выставляют игроки. Юнитам запрещено находиться на территории города.",
      "declaringWar": "Capture the Black flag!"
      "attacked": "Capture the Black flag!", 
@@ -89,7 +89,7 @@
 },
 {
      "name": "Nephrite", 
-     "startIntroPart1": " Приветствую тебя в режиме Захват Флага. Чтобы победить, вам нужно захватить вражеский флаг и отнести в центр вашего города.", 
+     "startIntroPart1": " Welcome to Capture the Flag mode. To win, you must capture the enemy flag and take it to the center of your city.", 
      "startIntroPart2": " Лимит бюджета на армию выставляют игроки. Юнитам запрещено находиться на территории города.",
      "declaringWar": "Capture the Nephrite flag!"
      "attacked": "Capture the Nephrite flag!", 
@@ -100,7 +100,7 @@
 },
 {
      "name": "Orange", 
-     "startIntroPart1": " Приветствую тебя в режиме Захват Флага. Чтобы победить, вам нужно захватить вражеский флаг и отнести в центр вашего города.", 
+     "startIntroPart1": " Welcome to Capture the Flag mode. To win, you must capture the enemy flag and take it to the center of your city.", 
      "startIntroPart2": " Лимит бюджета на армию выставляют игроки. Юнитам запрещено находиться на территории города.",
      "declaringWar": "Capture the Orange flag!"
      "attacked": "Capture the Orange flag!", 
@@ -111,7 +111,7 @@
 },
 {
      "name": "Pink", 
-     "startIntroPart1": " Приветствую тебя в режиме Захват Флага. Чтобы победить, вам нужно захватить вражеский флаг и отнести в центр вашего города.", 
+     "startIntroPart1": " Welcome to Capture the Flag mode. To win, you must capture the enemy flag and take it to the center of your city.", 
      "startIntroPart2": " Лимит бюджета на армию выставляют игроки. Юнитам запрещено находиться на территории города.",
      "declaringWar": "Capture the Pink flag!"
      "attacked": "Capture the Pink flag!", 
@@ -122,7 +122,7 @@
 },
 {
      "name": "Kazakh", 
-     "startIntroPart1": " Приветствую тебя в режиме Захват Флага. Чтобы победить, вам нужно захватить вражеский флаг и отнести в центр вашего города.", 
+     "startIntroPart1": " Welcome to Capture the Flag mode. To win, you must capture the enemy flag and take it to the center of your city.", 
      "startIntroPart2": " Лимит бюджета на армию выставляют игроки. Юнитам запрещено находиться на территории города.",
      "declaringWar": "Захвати флаг Казахов!"
      "attacked": "Захвати флаг Казахов!", 
@@ -133,7 +133,7 @@
 }, 
 {
      "name": "Black-Gold", 
-     "startIntroPart1": " Приветствую тебя в режиме Захват Флага. Чтобы победить, вам нужно захватить вражеский флаг и отнести в центр вашего города.", 
+     "startIntroPart1": " Welcome to Capture the Flag mode. To win, you must capture the enemy flag and take it to the center of your city.", 
      "startIntroPart2": " Лимит бюджета на армию выставляют игроки. Юнитам запрещено находиться на территории города.",
      "declaringWar": "Захвати флаг Черно-Золотых!"
      "attacked": "Захвати флаг Черно-Золотых!", 
@@ -144,10 +144,10 @@
 }, 
 {
      "name": "Burgundy", 
-     "startIntroPart1": " Приветствую тебя в режиме Захват Флага. Чтобы победить, вам нужно захватить вражеский флаг и отнести в центр вашего города.", 
+     "startIntroPart1": " Welcome to Capture the Flag mode. To win, you must capture the enemy flag and take it to the center of your city.", 
      "startIntroPart2": " Лимит бюджета на армию выставляют игроки. Юнитам запрещено находиться на территории города.",
-     "declaringWar": "Захвати флаг Бордовых!"
-     "attacked": "Захвати флаг Бордовых!", 
+     "declaringWar": "Capture the Burgundy Flag!"
+     "attacked": "Capture the Burgundy Flag!", 
      "outerColor": [128, 0, 0], 
      "innerColor": [255, 255, 255], 
      "uniques": ["Cannot build [Settler] units", "Free [Flag] appears <upon founding a city>","[Land] units gain the [Ability] promotion","Starts with [Agriculture]", "Gain [5000] [Gold] <upon founding a city>", "[-100]% [Science] [in capital]", "[-100]% [Culture] [in capital]", "[-10 Production] [in capital]", "[-100]% growth [in capital]", "[-100]% [Gold] [in capital]", "[-100]% maintenance costs <for [Military] units>"],  
