@@ -12,6 +12,9 @@
      "movement": 4,
      "strength": 1,
      "cost": 10
+     "civilopediaText":[
+     {"text":"Use this unit to block the enemy army"}
+]
 }, 
 {
      "name": "Flag", 
