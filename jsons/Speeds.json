@@ -2,10 +2,6 @@
     {
         "name": "Quick",
         "modifier": 0.67,
-        /*
-        Why are all of these raw values and not uniques? This is like EXACTLY what uniques are for,
-        and speeds even support uniques?
-        E.g.: [
             "[-67]% Production cost of [All] buildings",
             "[-67]% Produciton cost of [All] units",
             "Gold cost of purchasing [All] units [-67]%"
@@ -26,7 +22,6 @@
         "cultureCostModifier": 0.67,
         "faithCostModifier": 0.67,
         "improvementBuildLengthModifier": 0.67,
-        "barbarianModifier": 0.67,
         "goldGiftModifier": 1.25,
         "cityStateTributeScalingInterval": 5.0,
         "goldenAgeLengthModifier": 0.80,
