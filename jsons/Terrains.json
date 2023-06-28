@@ -214,7 +214,7 @@
 		"defenceBonus": -0.15,
 		"occursOn": ["Grassland"],
 		"uniques": ["Rare feature",
-					"[-2] to Fertility for Map Generation"
+					"[-2] to Fertility for Map Generation"]
 	},
 	{
 		"name": "Fallout",
