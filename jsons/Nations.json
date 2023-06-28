@@ -2,7 +2,7 @@
 {
      "name": "Red", 
      "startIntroPart1": " Welcome to Capture the Flag mode. To win, you must capture the enemy flag and take it to the center of your city.", 
-     "startIntroPart2": " Лимит бюджета на армию выставляют игроки. Юнитам запрещено находиться на территории города.",
+     "startIntroPart2": " The budget limit for the army is set by the players. Units are not allowed to be in the city.",
      "declaringWar": "Capture the Reds flag!"
      "attacked": "Capture the Reds flag!", 
      "outerColor": [255, 0, 0], 
@@ -13,7 +13,7 @@
 {
      "name": "Blue", 
      "startIntroPart1": " Welcome to Capture the Flag mode. To win, you must capture the enemy flag and take it to the center of your city.", 
-     "startIntroPart2": " Лимит бюджета на армию выставляют игроки. Юнитам запрещено находиться на территории города.",
+     "startIntroPart2": " The budget limit for the army is set by the players. Units are not allowed to be in the city.",
      "declaringWar": "Capture the Blue flag!"
      "attacked": "Capture the Blue flag!", 
      "outerColor": [0, 0, 255], 
@@ -24,7 +24,7 @@
 {
      "name": "Green", 
      "startIntroPart1": " Welcome to Capture the Flag mode. To win, you must capture the enemy flag and take it to the center of your city.", 
-     "startIntroPart2": " Лимит бюджета на армию выставляют игроки. Юнитам запрещено находиться на территории города.",
+     "startIntroPart2": " The budget limit for the army is set by the players. Units are not allowed to be in the city.",
      "declaringWar": "Capture the Green flag!"
      "attacked": "Capture the Green flag!", 
      "outerColor": [0, 128, 0], 
@@ -35,7 +35,7 @@
 {
      "name": "Yellow", 
      "startIntroPart1": " Welcome to Capture the Flag mode. To win, you must capture the enemy flag and take it to the center of your city.", 
-     "startIntroPart2": " Лимит бюджета на армию выставляют игроки. Юнитам запрещено находиться на территории города.",
+     "startIntroPart2": " The budget limit for the army is set by the players. Units are not allowed to be in the city.",
      "declaringWar": "Capture the Yellow flag!"
      "attacked": "Capture the Yellow flag!"
      "outerColor": [235, 219, 52], 
@@ -46,7 +46,7 @@
 {
      "name": "Aqua", 
      "startIntroPart1": " Welcome to Capture the Flag mode. To win, you must capture the enemy flag and take it to the center of your city.", 
-     "startIntroPart2": " Лимит бюджета на армию выставляют игроки. Юнитам запрещено находиться на территории города.",
+     "startIntroPart2": " The budget limit for the army is set by the players. Units are not allowed to be in the city.",
      "declaringWar": "Capture the Aqua flag!"
      "attacked": "Capture the Aqua flag!", 
      "outerColor": [32, 168, 199], 
@@ -57,7 +57,7 @@
 {
      "name": "Lime", 
      "startIntroPart1": " Welcome to Capture the Flag mode. To win, you must capture the enemy flag and take it to the center of your city.", 
-     "startIntroPart2": " Лимит бюджета на армию выставляют игроки. Юнитам запрещено находиться на территории города.",
+     "startIntroPart2": " The budget limit for the army is set by the players. Units are not allowed to be in the city.",
      "declaringWar": "Capture the Lime flag!"
      "attacked": "Capture the Lime flag!", 
      "outerColor": [105, 207, 27], 
@@ -68,7 +68,7 @@
 {
      "name": "Purple", 
      "startIntroPart1": " Welcome to Capture the Flag mode. To win, you must capture the enemy flag and take it to the center of your city.", 
-     "startIntroPart2": " Лимит бюджета на армию выставляют игроки. Юнитам запрещено находиться на территории города.",
+     "startIntroPart2": " The budget limit for the army is set by the players. Units are not allowed to be in the city.",
      "declaringWar": "Capture the Purple flag!"
      "attacked": "Capture the Purple flag!", 
      "outerColor": [128, 0, 128], 
@@ -79,7 +79,7 @@
 {
      "name": "Black", 
      "startIntroPart1": " Welcome to Capture the Flag mode. To win, you must capture the enemy flag and take it to the center of your city.", 
-     "startIntroPart2": " Лимит бюджета на армию выставляют игроки. Юнитам запрещено находиться на территории города.",
+     "startIntroPart2": " The budget limit for the army is set by the players. Units are not allowed to be in the city.",
      "declaringWar": "Capture the Black flag!"
      "attacked": "Capture the Black flag!", 
      "outerColor": [0, 0, 0], 
@@ -90,7 +90,7 @@
 {
      "name": "Nephrite", 
      "startIntroPart1": " Welcome to Capture the Flag mode. To win, you must capture the enemy flag and take it to the center of your city.", 
-     "startIntroPart2": " Лимит бюджета на армию выставляют игроки. Юнитам запрещено находиться на территории города.",
+     "startIntroPart2": " The budget limit for the army is set by the players. Units are not allowed to be in the city.",
      "declaringWar": "Capture the Nephrite flag!"
      "attacked": "Capture the Nephrite flag!", 
      "outerColor": [0, 167, 116], 
@@ -101,7 +101,7 @@
 {
      "name": "Orange", 
      "startIntroPart1": " Welcome to Capture the Flag mode. To win, you must capture the enemy flag and take it to the center of your city.", 
-     "startIntroPart2": " Лимит бюджета на армию выставляют игроки. Юнитам запрещено находиться на территории города.",
+     "startIntroPart2": " The budget limit for the army is set by the players. Units are not allowed to be in the city.",
      "declaringWar": "Capture the Orange flag!"
      "attacked": "Capture the Orange flag!", 
      "outerColor": [227, 113, 0], 
@@ -112,7 +112,7 @@
 {
      "name": "Pink", 
      "startIntroPart1": " Welcome to Capture the Flag mode. To win, you must capture the enemy flag and take it to the center of your city.", 
-     "startIntroPart2": " Лимит бюджета на армию выставляют игроки. Юнитам запрещено находиться на территории города.",
+     "startIntroPart2": " The budget limit for the army is set by the players. Units are not allowed to be in the city.",
      "declaringWar": "Capture the Pink flag!"
      "attacked": "Capture the Pink flag!", 
      "outerColor": [238, 0, 139], 
@@ -145,7 +145,7 @@
 {
      "name": "Burgundy", 
      "startIntroPart1": " Welcome to Capture the Flag mode. To win, you must capture the enemy flag and take it to the center of your city.", 
-     "startIntroPart2": " Лимит бюджета на армию выставляют игроки. Юнитам запрещено находиться на территории города.",
+     "startIntroPart2": " The budget limit for the army is set by the players. Units are not allowed to be in the city.",
      "declaringWar": "Capture the Burgundy Flag!"
      "attacked": "Capture the Burgundy Flag!", 
      "outerColor": [128, 0, 0], 
