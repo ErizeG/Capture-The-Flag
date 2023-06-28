@@ -102,7 +102,7 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"cost": 106,
-		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction", "Can only move on [Spawn] tiles", "Requires at least [2] population"],
+		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction", "Cannot move", "Requires at least [2] population"],
 		"hurryCostModifier": 20
 },
 ]
