@@ -2,13 +2,12 @@
 {
      "name": "Red", 
      "startIntroPart1": " Welcome to Capture the Flag mode. To win, you must capture the enemy flag and take it to the center of your city.", 
-     "startIntroPart2": " The budget limit for the army is set by the players. Units are not allowed to be in the city.",
-     "startBias": ["Spawn","Avoid [Forest]","Avoid [Plains]","Avoid [Jungle]","Avoid [Hill]","Avoid [Desert]"," Avoid [Tundra]","Avoid [Forest]","Avoid [Coast]","Avoid [Grassland]"], 
+     "startIntroPart2": " The budget limit for the army is set by the players. Units are not allowed to be in the city.", 
      "declaringWar": "Capture the Reds flag!"
      "attacked": "Capture the Reds flag!", 
      "outerColor": [255, 0, 0], 
      "innerColor": [255, 255, 255], 
-     "uniques": ["Cannot build [Settler] units", "Free [Flag] appears <upon founding a city>","[Land] units gain the [Ability] promotion","Starts with [Agriculture]", "Gain [5000] [Gold] <upon founding a city>", "[-100]% [Science] [in capital]", "[-100]% [Culture] [in capital]", "[-10 Production] [in capital]", "[-100]% growth [in capital]", "[-100]% [Gold] [in capital]", "[-100]% maintenance costs <for [Military] units>"],  
+     "uniques": ["Cannot build [Settler] units", "Free [Flag] appears <upon founding a city>","[Land] units gain the [Ability] promotion","Starts with [Agriculture]", "Gain [5000] [Gold] <upon founding a city>", "[-100]% [Science] [in capital]", "[-100]% [Culture] [in capital]", "[-10 Production] [in capital]", "[-100]% growth [in capital]", "[-100]% [Gold] [in capital]", "[-100]% maintenance costs <for [Military] units>","[-100]% maintenance costs <for [Civilian] units>"],  
      "cities": ["Red"] 
 }, 
 {
