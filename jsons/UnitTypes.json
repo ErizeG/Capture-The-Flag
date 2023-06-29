@@ -32,4 +32,8 @@
      "uniques": ["Destroys tile improvements when attacking"], 
      "movementType": "Land"
 }, 
+{
+     "name": "Support", 
+     "movementType": "Land"
+}
 ]
