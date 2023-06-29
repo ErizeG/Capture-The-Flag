@@ -8,7 +8,7 @@
 },
 {
      "name": "Citadel",
-     "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle"],
+     "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle","Spawn"],
      "uniques": ["Great Improvement","Provides [5] [Military Experience]"]
 },
 {
