@@ -18,7 +18,7 @@
      "attacked": "Capture the Blue flag!", 
      "outerColor": [0, 0, 255], 
      "innerColor": [255, 255, 255], 
-     "uniques": ["Cannot build [Settler] units", "Free [Flag] appears <upon founding a city>","[Land] units gain the [Ability] promotion","Starts with [Agriculture]", "Gain [5000] [Gold] <upon founding a city>", "[-100]% [Science] [in capital]", "[-100]% [Culture] [in capital]", "[-10 Production] [in capital]", "[-100]% growth [in capital]", "[-100]% [Gold] [in capital]", "[-100]% maintenance costs <for [Military] units>"],       
+     "uniques": ["Cannot build [Settler] units", "Free [Flag] appears <upon founding a city>","[Land] units gain the [Ability] promotion","Starts with [Agriculture]", "Gain [5000] [Gold] <upon founding a city>", "[-100]% [Science] [in capital]", "[-100]% [Culture] [in capital]", "[-10 Production] [in capital]", "[-100]% growth [in capital]", "[-100]% [Gold] [in capital]", "[-100]% maintenance costs <for [Military] units>","[-100]% maintenance costs <for [Civilian] units>"],       
      "cities": ["Blue"]
 }, 
 {
@@ -29,7 +29,7 @@
      "attacked": "Capture the Green flag!", 
      "outerColor": [0, 128, 0], 
      "innerColor": [255, 255, 255], 
-     "uniques": ["Cannot build [Settler] units", "Free [Flag] appears <upon founding a city>","[Land] units gain the [Ability] promotion","Starts with [Agriculture]", "Gain [5000] [Gold] <upon founding a city>", "[-100]% [Science] [in capital]", "[-100]% [Culture] [in capital]", "[-10 Production] [in capital]", "[-100]% growth [in capital]", "[-100]% [Gold] [in capital]", "[-100]% maintenance costs <for [Military] units>"],  
+     "uniques": ["Cannot build [Settler] units", "Free [Flag] appears <upon founding a city>","[Land] units gain the [Ability] promotion","Starts with [Agriculture]", "Gain [5000] [Gold] <upon founding a city>", "[-100]% [Science] [in capital]", "[-100]% [Culture] [in capital]", "[-10 Production] [in capital]", "[-100]% growth [in capital]", "[-100]% [Gold] [in capital]", "[-100]% maintenance costs <for [Military] units>","[-100]% maintenance costs <for [Civilian] units>"],  
      "cities": ["Green"]
 }, 
 {
@@ -40,7 +40,7 @@
      "attacked": "Capture the Yellow flag!"
      "outerColor": [235, 219, 52], 
      "innerColor": [255, 255, 255], 
-     "uniques": ["Cannot build [Settler] units", "Free [Flag] appears <upon founding a city>","[Land] units gain the [Ability] promotion","Starts with [Agriculture]", "Gain [5000] [Gold] <upon founding a city>", "[-100]% [Science] [in capital]", "[-100]% [Culture] [in capital]", "[-10 Production] [in capital]", "[-100]% growth [in capital]", "[-100]% [Gold] [in capital]", "[-100]% maintenance costs <for [Military] units>"],  
+     "uniques": ["Cannot build [Settler] units", "Free [Flag] appears <upon founding a city>","[Land] units gain the [Ability] promotion","Starts with [Agriculture]", "Gain [5000] [Gold] <upon founding a city>", "[-100]% [Science] [in capital]", "[-100]% [Culture] [in capital]", "[-10 Production] [in capital]", "[-100]% growth [in capital]", "[-100]% [Gold] [in capital]", "[-100]% maintenance costs <for [Military] units>","[-100]% maintenance costs <for [Civilian] units>"],  
      "cities": ["Yellow"]
 }, 
 {
@@ -51,7 +51,7 @@
      "attacked": "Capture the Aqua flag!", 
      "outerColor": [32, 168, 199], 
      "innerColor": [255, 255, 255], 
-     "uniques": ["Cannot build [Settler] units", "Free [Flag] appears <upon founding a city>","[Land] units gain the [Ability] promotion","Starts with [Agriculture]", "Gain [5000] [Gold] <upon founding a city>", "[-100]% [Science] [in capital]", "[-100]% [Culture] [in capital]", "[-10 Production] [in capital]", "[-100]% growth [in capital]", "[-100]% [Gold] [in capital]", "[-100]% maintenance costs <for [Military] units>"],  
+     "uniques": ["Cannot build [Settler] units", "Free [Flag] appears <upon founding a city>","[Land] units gain the [Ability] promotion","Starts with [Agriculture]", "Gain [5000] [Gold] <upon founding a city>", "[-100]% [Science] [in capital]", "[-100]% [Culture] [in capital]", "[-10 Production] [in capital]", "[-100]% growth [in capital]", "[-100]% [Gold] [in capital]", "[-100]% maintenance costs <for [Military] units>","[-100]% maintenance costs <for [Civilian] units>"],  
      "cities": ["Aqua"]
      }, 
 {
@@ -62,7 +62,7 @@
      "attacked": "Capture the Lime flag!", 
      "outerColor": [105, 207, 27], 
      "innerColor": [255, 255, 255], 
-     "uniques": ["Cannot build [Settler] units", "Free [Flag] appears <upon founding a city>","[Land] units gain the [Ability] promotion","Starts with [Agriculture]", "Gain [5000] [Gold] <upon founding a city>", "[-100]% [Science] [in capital]", "[-100]% [Culture] [in capital]", "[-10 Production] [in capital]", "[-100]% growth [in capital]", "[-100]% [Gold] [in capital]", "[-100]% maintenance costs <for [Military] units>"],  
+     "uniques": ["Cannot build [Settler] units", "Free [Flag] appears <upon founding a city>","[Land] units gain the [Ability] promotion","Starts with [Agriculture]", "Gain [5000] [Gold] <upon founding a city>", "[-100]% [Science] [in capital]", "[-100]% [Culture] [in capital]", "[-10 Production] [in capital]", "[-100]% growth [in capital]", "[-100]% [Gold] [in capital]", "[-100]% maintenance costs <for [Military] units>","[-100]% maintenance costs <for [Civilian] units>"],  
      "cities": ["Lime"]
      }, 
 {
@@ -73,7 +73,7 @@
      "attacked": "Capture the Purple flag!", 
      "outerColor": [128, 0, 128], 
      "innerColor": [255, 255, 255], 
-     "uniques": ["Cannot build [Settler] units", "Free [Flag] appears <upon founding a city>","[Land] units gain the [Ability] promotion","Starts with [Agriculture]", "Gain [5000] [Gold] <upon founding a city>", "[-100]% [Science] [in capital]", "[-100]% [Culture] [in capital]", "[-10 Production] [in capital]", "[-100]% growth [in capital]", "[-100]% [Gold] [in capital]", "[-100]% maintenance costs <for [Military] units>"],  
+     "uniques": ["Cannot build [Settler] units", "Free [Flag] appears <upon founding a city>","[Land] units gain the [Ability] promotion","Starts with [Agriculture]", "Gain [5000] [Gold] <upon founding a city>", "[-100]% [Science] [in capital]", "[-100]% [Culture] [in capital]", "[-10 Production] [in capital]", "[-100]% growth [in capital]", "[-100]% [Gold] [in capital]", "[-100]% maintenance costs <for [Military] units>","[-100]% maintenance costs <for [Civilian] units>"],  
      "cities": ["Purple"]
      }, 
 {
@@ -84,7 +84,7 @@
      "attacked": "Capture the Black flag!", 
      "outerColor": [0, 0, 0], 
      "innerColor": [255, 255, 255], 
-     "uniques": ["Cannot build [Settler] units", "Free [Flag] appears <upon founding a city>","[Land] units gain the [Ability] promotion","Starts with [Agriculture]", "Gain [5000] [Gold] <upon founding a city>", "[-100]% [Science] [in capital]", "[-100]% [Culture] [in capital]", "[-10 Production] [in capital]", "[-100]% growth [in capital]", "[-100]% [Gold] [in capital]", "[-100]% maintenance costs <for [Military] units>"],  
+     "uniques": ["Cannot build [Settler] units", "Free [Flag] appears <upon founding a city>","[Land] units gain the [Ability] promotion","Starts with [Agriculture]", "Gain [5000] [Gold] <upon founding a city>", "[-100]% [Science] [in capital]", "[-100]% [Culture] [in capital]", "[-10 Production] [in capital]", "[-100]% growth [in capital]", "[-100]% [Gold] [in capital]", "[-100]% maintenance costs <for [Military] units>","[-100]% maintenance costs <for [Civilian] units>"],  
      "cities": ["Black"]
 },
 {
@@ -95,7 +95,7 @@
      "attacked": "Capture the Nephrite flag!", 
      "outerColor": [0, 167, 116], 
      "innerColor": [255, 255, 255], 
-     "uniques": ["Cannot build [Settler] units", "Free [Flag] appears <upon founding a city>","[Land] units gain the [Ability] promotion","Starts with [Agriculture]", "Gain [5000] [Gold] <upon founding a city>", "[-100]% [Science] [in capital]", "[-100]% [Culture] [in capital]", "[-10 Production] [in capital]", "[-100]% growth [in capital]", "[-100]% [Gold] [in capital]", "[-100]% maintenance costs <for [Military] units>"],  
+     "uniques": ["Cannot build [Settler] units", "Free [Flag] appears <upon founding a city>","[Land] units gain the [Ability] promotion","Starts with [Agriculture]", "Gain [5000] [Gold] <upon founding a city>", "[-100]% [Science] [in capital]", "[-100]% [Culture] [in capital]", "[-10 Production] [in capital]", "[-100]% growth [in capital]", "[-100]% [Gold] [in capital]", "[-100]% maintenance costs <for [Military] units>","[-100]% maintenance costs <for [Civilian] units>"],  
      "cities": ["Nephrite"]
 },
 {
@@ -106,7 +106,7 @@
      "attacked": "Capture the Orange flag!", 
      "outerColor": [227, 113, 0], 
      "innerColor": [255, 255, 255], 
-     "uniques": ["Cannot build [Settler] units", "Free [Flag] appears <upon founding a city>","[Land] units gain the [Ability] promotion","Starts with [Agriculture]", "Gain [5000] [Gold] <upon founding a city>", "[-100]% [Science] [in capital]", "[-100]% [Culture] [in capital]", "[-10 Production] [in capital]", "[-100]% growth [in capital]", "[-100]% [Gold] [in capital]", "[-100]% maintenance costs <for [Military] units>"],  
+     "uniques": ["Cannot build [Settler] units", "Free [Flag] appears <upon founding a city>","[Land] units gain the [Ability] promotion","Starts with [Agriculture]", "Gain [5000] [Gold] <upon founding a city>", "[-100]% [Science] [in capital]", "[-100]% [Culture] [in capital]", "[-10 Production] [in capital]", "[-100]% growth [in capital]", "[-100]% [Gold] [in capital]", "[-100]% maintenance costs <for [Military] units>","[-100]% maintenance costs <for [Civilian] units>"],  
      "cities": ["Orange"]
 },
 {
@@ -117,7 +117,7 @@
      "attacked": "Capture the Pink flag!", 
      "outerColor": [238, 0, 139], 
      "innerColor": [255, 255, 255], 
-     "uniques": ["Cannot build [Settler] units", "Free [Flag] appears <upon founding a city>","[Land] units gain the [Ability] promotion","Starts with [Agriculture]", "Gain [5000] [Gold] <upon founding a city>", "[-100]% [Science] [in capital]", "[-100]% [Culture] [in capital]", "[-10 Production] [in capital]", "[-100]% growth [in capital]", "[-100]% [Gold] [in capital]", "[-100]% maintenance costs <for [Military] units>"],  
+     "uniques": ["Cannot build [Settler] units", "Free [Flag] appears <upon founding a city>","[Land] units gain the [Ability] promotion","Starts with [Agriculture]", "Gain [5000] [Gold] <upon founding a city>", "[-100]% [Science] [in capital]", "[-100]% [Culture] [in capital]", "[-10 Production] [in capital]", "[-100]% growth [in capital]", "[-100]% [Gold] [in capital]", "[-100]% maintenance costs <for [Military] units>","[-100]% maintenance costs <for [Civilian] units>"],  
      "cities": ["Pink"]
 },
 {
@@ -128,7 +128,7 @@
      "attacked": "Захвати флаг Оливковых!", 
      "outerColor": [20, 35, 0], 
      "innerColor": [255, 255, 255], 
-     "uniques": ["Cannot build [Settler] units", "Free [Flag] appears <upon founding a city>","[Land] units gain the [Ability] promotion","Starts with [Agriculture]", "Gain [5000] [Gold] <upon founding a city>", "[-100]% [Science] [in capital]", "[-100]% [Culture] [in capital]", "[-10 Production] [in capital]", "[-100]% growth [in capital]", "[-100]% [Gold] [in capital]", "[-100]% maintenance costs <for [Military] units>"],  
+     "uniques": ["Cannot build [Settler] units", "Free [Flag] appears <upon founding a city>","[Land] units gain the [Ability] promotion","Starts with [Agriculture]", "Gain [5000] [Gold] <upon founding a city>", "[-100]% [Science] [in capital]", "[-100]% [Culture] [in capital]", "[-10 Production] [in capital]", "[-100]% growth [in capital]", "[-100]% [Gold] [in capital]", "[-100]% maintenance costs <for [Military] units>","[-100]% maintenance costs <for [Civilian] units>"],  
      "cities": ["Olive"]
 }, 
 {
@@ -139,7 +139,7 @@
      "attacked": "Capture the Burgundy Flag!", 
      "outerColor": [128, 0, 0], 
      "innerColor": [255, 255, 255], 
-     "uniques": ["Cannot build [Settler] units", "Free [Flag] appears <upon founding a city>","[Land] units gain the [Ability] promotion","Starts with [Agriculture]", "Gain [5000] [Gold] <upon founding a city>", "[-100]% [Science] [in capital]", "[-100]% [Culture] [in capital]", "[-10 Production] [in capital]", "[-100]% growth [in capital]", "[-100]% [Gold] [in capital]", "[-100]% maintenance costs <for [Military] units>"],  
+     "uniques": ["Cannot build [Settler] units", "Free [Flag] appears <upon founding a city>","[Land] units gain the [Ability] promotion","Starts with [Agriculture]", "Gain [5000] [Gold] <upon founding a city>", "[-100]% [Science] [in capital]", "[-100]% [Culture] [in capital]", "[-10 Production] [in capital]", "[-100]% growth [in capital]", "[-100]% [Gold] [in capital]", "[-100]% maintenance costs <for [Military] units>","[-100]% maintenance costs <for [Civilian] units>"],  
      "cities": ["Burgundy"],
 }
 ]
