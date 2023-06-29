@@ -72,10 +72,10 @@
 }, 
 {
      "name": "Engineer", 
-     "unitType": "Archery", 
+     "unitType": "Support", 
      "uniques": ["Must set up to ranged attack","Can build [Road] improvements on tiles","[+25]% Strength <when fighting in [Fort] tiles>","Consumes [2] [Military Experience]"]
      "movement": 2,
-     "strength": 5,
+     "strength": 7,
      "rangedStrength": 7,
      "cost": 0,
 },
