@@ -225,7 +225,7 @@
 },
 {
   "name": "Confraternity",
-  "prerequisites": ["Shock II","Drill II"," Accuracy II","Barrage II"]
+  "prerequisites": ["Shock II","Drill II","Accuracy II","Barrage II"]
   "uniques": ["[+50]% to Flank Attack bonuses"], 
   "unitTypes": ["Sword","Archery","Anti Cavalry","Cavalry"],
   "column": 8,
