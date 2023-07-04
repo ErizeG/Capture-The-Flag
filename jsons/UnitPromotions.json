@@ -215,4 +215,12 @@
         "column": 24,
         "row": 2
 },
+{
+  "name": "Looting", 
+  "prerequisites": ["Shock I","Drill I","Accuracy I","Barrage I"]
+  "uniques": ["[+2] XP <when attacking>"], 
+  "unitTypes": ["Sword","Archery","Anti Cavalry"], 
+  "column": 12,
+  "row": 1
+}
 ]
