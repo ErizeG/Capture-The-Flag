@@ -218,9 +218,15 @@
 {
   "name": "Looting", 
   "prerequisites": ["Shock I","Drill I","Accuracy I","Barrage I"]
-  "uniques": ["[+20]% XP gained from combat"], 
+  "uniques": ["[+40]% XP gained from combat"], 
   "unitTypes": ["Sword","Archery","Anti Cavalry"], 
   "column": 12,
   "row": 1
-}
+},
+{
+  "name": "Confraternity",
+  "prerequisites": ["Shock II","Drill II"," Accuracy II","Barrage II"]
+  "uniques": ["[+50]% to Flank Attack bonuses"], 
+  "column": 8,
+  "row": 1
 ]
