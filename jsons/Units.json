@@ -45,7 +45,7 @@
 {
      "name": "Horseman", 
      "unitType": "Cavalry",
-     "uniques":["Can move after attacking],
+     "uniques":["Can move after attacking"],
      "movement": 4,
      "strength": 12,
      "cost": 55,
