@@ -8,7 +8,7 @@
 { 
    "name": "Orange Target", 
    "cost": 0, 
-   "uniques": ["Unsellable", "Only available <without [Target]>", "Provides [1][Target]","[+15]% <vs [Orange] nation]", 
+   "uniques": ["Unsellable", "Only available <without [Target]>", "Provides [1][Target]","[+15]% <vs [Orange] nation>]", 
     "Destroyed when the city is captured"], 
  },
 ]
