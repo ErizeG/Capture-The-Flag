@@ -12,7 +12,7 @@
     "Destroyed when the city is captured"], 
  }, 
 {  
-    "name": "Aque Target",  
+    "name": "Aqua Target",  
     "cost": 0,  
     "uniques": ["Unsellable", "Only available <without [Target]>", "Provides [1] [Target]","[+15]% Strength <vs [Aque] units>",  
      "Destroyed when the city is captured"],  
