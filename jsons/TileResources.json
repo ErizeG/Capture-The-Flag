@@ -2,5 +2,9 @@
 	{
 		"name": "Military Experience",
 		"resourceType": "Strategic",
-	}
+	}, 
+ {
+  "name": "Target", 
+  "resourceType": "Strategic", 
+ }
 ]
